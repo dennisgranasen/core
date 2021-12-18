@@ -24,6 +24,7 @@ SUPPORTED_REGIONS: Final[list[str]] = [
     "ap-northeast-1",
     "ap-south-1",
     "sa-east-1",
+    "eu-north-1",
 ]
 
 CONF_ENGINE: Final = "engine"
